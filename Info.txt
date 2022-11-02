@@ -1,1 +1,4 @@
 # USA_QA_Batch_Mufeeda
+
+Python tutorial:
+https://www.programiz.com/python-programming
