@@ -2,3 +2,30 @@
 
 Python tutorial:
 https://www.programiz.com/python-programming
+
+
+# implicit collection objects
+list1 = [101, "Williumns", "Developer", True, 1000.50]
+print (list1, len(list1), type(list1), id(list1))
+tuple1 = (101, "Williumns", "Developer", True, 1000.50)
+print (tuple1, len(tuple1), type(tuple1), id(tuple1))
+dict1 = {"empid":101, "empname":"Williumns", "job":"Developer", "married":True, "salary":1000.50, "empid":505}
+print (dict1, len(dict1), type(dict1), id(dict1))
+set1 = {101, "Williumns", "Developer", True, 1000.50, "Developer", True, 1000.50}
+print (set1, len(set1), type(set1), id(set1))
+frset1 = frozenset([101, "Williumns", "Developer", True, 1000.50])
+print (frset1, len(frset1), type(frset1), id(frset1))
+
+
+list1 = []
+print (list1, len(list1), type(list1), id(list1))
+tuple1 = ()
+print (tuple1, len(tuple1), type(tuple1), id(tuple1))
+dict1 = {}
+print (dict1, len(dict1), type(dict1), id(dict1))
+set1 = set()
+print (set1, len(set1), type(set1), id(set1))
+frset1 = frozenset()
+print (frset1, len(frset1), type(frset1), id(frset1))
+
+
