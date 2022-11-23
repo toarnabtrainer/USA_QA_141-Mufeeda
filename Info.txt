@@ -1,3 +1,5 @@
+For HTML Color Codes visit the site: https://htmlcolorcodes.com/
+
 # USA_QA_Batch_Mufeeda
 
 Python tutorial:
